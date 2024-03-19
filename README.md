@@ -47,8 +47,8 @@ Terceira etapa prática:
 
 ### MVP da Plataforma testada
 
-[E2E Suporte](https://e2e-suporte.vercel.app/) - usuários do suporte autenticados via Google.
-[E2E Suporte/open](https://e2e-suporte.vercel.app/open) - link externo para abertura de chamado (não autenticado)
+- [E2E Suporte](https://e2e-suporte.vercel.app/) - usuários do suporte autenticados via Google.
+- [E2E Suporte/open](https://e2e-suporte.vercel.app/open) - link externo para abertura de chamado (não autenticado)
 
 ### Imagens da plataforma
 
@@ -86,13 +86,10 @@ Para essa suíte, 4 casos foram pensados:
 
 - Caso 2: contraponto do Caso 1. Nele, foram testadas duas situações: o usuário inserindo credenciais inválidas e nulas.
 
-
 #### 📝 Suíte Cadastro de Novo Aluno | Objetivo: Verificar principais funcionalidades 
-
 
 - Caso 1: cadastrar aluno com  informações básicas (nome completo) 
  
-
 ####  📝Suíte Dashboard | Objetivo: Verificar funcionalidades gerais da página principal 
 
 - Caso 1: Escrever as condições de teste.
