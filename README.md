@@ -121,3 +121,13 @@ Para essa suíte, 4 casos foram pensados:
 ###  📌Fechamento de ciclo de testes e artefactos de teste:
 
 -   [Dasboard de Métricas](https://pt-br.reactjs.org) - inserir link do relatório
+
+
+## 📌 Notas Gerais
+
+Projeto em desenvolvimento!
+
+Feito com ❤️ por [E2E Treinamentos](https://github.com/repoe2e) 😊
+
+⌨️ Me contate pelo [LinkedIn](https://www.linkedin.com/company/e2e-treinamentos/) 😊
+  
