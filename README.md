@@ -54,18 +54,26 @@ Terceira etapa prática:
 
 <div align="center">
 
+#### E2E Suporte - Home
+![home logada](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/d93a06c6-a673-4a94-8835-f7fd1fc2ff57)
+
 #### E2E Suporte - Cadastro de Novo Aluno
-![Orange HRM - Login](https://github.com/leonardonps/desafios-finais-testes-manuais-automatizados-minsait/blob/main/desafio-testes-automatizados/imagens/tela-login.png)
+![cadastro](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/8e0a5869-c486-4e1b-bbd3-4510f25f438d)
+
 
 #### E2E Suporte- Dashboard
-![Menus principais do site](https://github.com/leonardonps/desafios-finais-testes-manuais-automatizados-minsait/blob/main/desafio-testes-automatizados/imagens/orange-menus.png)
+![dash de alunos](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/fa74d866-2841-4460-a253-e90a8d5c3b19)
+
+![deletar alunos](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/12d5a860-9adc-43e4-acd8-fe2311acc7e8)
+
 
 #### E2E Suporte - Novo Chamado
-![Orange HRM - Seção Admin](https://github.com/leonardonps/desafios-finais-testes-manuais-automatizados-minsait/blob/main/desafio-testes-automatizados/imagens/orange-admin.png)
+![novo chamado](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/f19d11ef-7562-48d7-80e7-af70e8aeeeec)
 
 #### E2E Suporte - Novo Chamado – rota externa
-![Orange HRM - Seção PIM](https://github.com/leonardonps/desafios-finais-testes-manuais-automatizados-minsait/blob/main/desafio-testes-automatizados/imagens/orange-pim.png)
+![abrir chamado](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/d8a78744-97c6-4550-93c1-17f45bed110a)
 
+![abrir chamado externo](https://github.com/AlineAreda/testes-manuais-e2e-suporte/assets/77371831/b8c8bd27-e502-4800-aa58-2832beba514d)
 </div>
 
 ### ⚙️ Ferramentas utilizadas para a elaboração dos casos de testes
@@ -86,10 +94,13 @@ Para essa suíte, 4 casos foram pensados:
 
 - Caso 2: contraponto do Caso 1. Nele, foram testadas duas situações: o usuário inserindo credenciais inválidas e nulas.
 
+
 #### 📝 Suíte Cadastro de Novo Aluno | Objetivo: Verificar principais funcionalidades 
+
 
 - Caso 1: cadastrar aluno com  informações básicas (nome completo) 
  
+
 ####  📝Suíte Dashboard | Objetivo: Verificar funcionalidades gerais da página principal 
 
 - Caso 1: Escrever as condições de teste.
